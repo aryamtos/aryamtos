@@ -1,4 +1,4 @@
-### Ariadne Nascimento 👋
+### Ariadne Matos 👋
 - 🌱 I’m currently learning Speech Recognition
 - 👯 I’m looking to collaborate on Deep Learning
 <hr/>
