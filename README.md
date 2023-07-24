@@ -1,6 +1,6 @@
 ### Ariadne Matos 👋
 - 🌱 I’m currently learning Speech Recognition
-- 👯 I’m looking to collaborate on Deep Learning
+- 💬 I’m looking to collaborate on Deep Learning
 <hr/>
 
 
